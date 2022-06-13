@@ -21,13 +21,13 @@ I am a postdoctoral scholar at the [Institute of Statistical Science, Academia S
 - Caiying Wu, Jing Wang, **Jan Harold Alcantara**, Jein-Shan Chen, [Smoothing strategy along with conjugate gradient algorithm for signal reconstruction](https://link.springer.com/article/10.1007/s10915-021-01440-z), Journal of Scientific Computing, vol. 87, no. 1, Article 21 (2021). 
 - **Jan Harold Alcantara**, Jein-Shan Chen, [A novel generalization of the natural residual function and a neural network approach for the NCP](https://www.sciencedirect.com/science/article/abs/pii/S092523122031047X), Neurocomputing, vol. 413, pp. 368-382 (2020). 
 - **Jan Harold Alcantara**, Chen-Han Lee, Chieu Thanh Nguyen, Yu-Lin Chang, Jein-Shan Chen, [On construction of new NCP functions](https://www.sciencedirect.com/science/article/abs/pii/S0167637720300109), Operations Research Letters, vol. 48, pp. 115-121 (2020). 
-- **Jan Harold Alcantara** and Jein-Shan Chen, [Neural networks based on three classes of NCP-functions for solving nonlinear complementarity problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231219308021), Neurocomputing, vol. 359, pp. 102-113 (2019). 
-- **Jan Harold Alcantara**, Angelyn Lao, and Leonor Ruivivar, [Stability analysis of the ODE model representation of amyloidogenic processing in Alzheimer’s disease in the presence of SORLA](https://pubs.rsc.org/en/content/articlelanding/2016/mb/c5mb00741k/unauth), Molecular BioSystems, vol. 12, pp. 1468-1477 (2016). 
+- **Jan Harold Alcantara**, Jein-Shan Chen, [Neural networks based on three classes of NCP-functions for solving nonlinear complementarity problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231219308021), Neurocomputing, vol. 359, pp. 102-113 (2019). 
+- **Jan Harold Alcantara**, Angelyn Lao, Leonor Ruivivar, [Stability analysis of the ODE model representation of amyloidogenic processing in Alzheimer’s disease in the presence of SORLA](https://pubs.rsc.org/en/content/articlelanding/2016/mb/c5mb00741k/unauth), Molecular BioSystems, vol. 12, pp. 1468-1477 (2016). 
 
 ## Preprints
 
 - **Jan Harold Alcantara**, Ching-pei Lee, [Global convergence and acceleration of fixed point iterations of union upper semicontinuous operators: proximal algorithms, alternating and averaged nonconvex projections, and linear complementarity problems](https://arxiv.org/abs/2202.10052) (2022).
--  Chieu Thanh Nguyen, **Jan Harold Alcantara**, Takayuki Okuno, Akiko Takeda, and Jein-Shan Chen, [Unified smoothing approach for best hyperparameter selection problem using a bilevel optimization strategy](https://arxiv.org/abs/2110.12630) (2021). 
+-  Chieu Thanh Nguyen, **Jan Harold Alcantara**, Takayuki Okuno, Akiko Takeda, Jein-Shan Chen, [Unified smoothing approach for best hyperparameter selection problem using a bilevel optimization strategy](https://arxiv.org/abs/2110.12630) (2021). 
 
 ## Selected Talks
 
