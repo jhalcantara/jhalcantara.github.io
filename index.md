@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+---
+layout: homepage
+---
 
-You can use the [editor on GitHub](https://github.com/jhalcantara/jhalcantara.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me (It's all about me)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a nice cat -- believe me. Meow!
+
+## Research Interest
+
+I am not interested in research. I am cat, I just care about sleeping.
+
+## Publications
+
+Whuuut?
+
 
 ### Markdown
 
@@ -30,7 +41,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhalcantara/jhalcantara.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/janharold27/janharold27.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
