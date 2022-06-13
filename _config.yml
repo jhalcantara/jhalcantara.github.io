@@ -1,8 +1,9 @@
-title: Dooby Santos Doo
-position: boss of all humans
-email: yourname (at) example.edu
+title: Jan Harold Alcantara
+position: Postdoctoral Scholar
+affiliation: Institute of Statistical Science, Academia Sinica
+email: janharold (at) stat.sinica.edu.tw
 keywords: minimal academic
 google_scholar: https://scholar.google.com.ph/citations?user=E6oQznwAAAAJ&hl=en
-is_project_page: false
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
