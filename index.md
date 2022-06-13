@@ -15,7 +15,7 @@ I am a postdoctoral scholar at the [Institute of Statistical Science, Academia S
 
 ## Publications
 
-- **Jan Harold Alcantara**, Jein-Shan Chen Matthew K. Tam, [Method of alternating projections for the general absolute value equation](https://arxiv.org/abs/2106.03268), to appear in [Journal of Fixed Point Theory and Applications](https://www.springer.com/journal/11784) (2022). 
+- **Jan Harold Alcantara**, Jein-Shan, Chen Matthew K. Tam, [Method of alternating projections for the general absolute value equation](https://arxiv.org/abs/2106.03268), to appear in [Journal of Fixed Point Theory and Applications](https://www.springer.com/journal/11784) (2022). 
 - **Jan Harold Alcantara**, Jein-Shan Chen, [A new class of neural networks for NCPs using smooth perturbations of the natural residual function](https://www.sciencedirect.com/science/article/abs/pii/S0377042722000061), Journal of Computational and Applied Mathematics, vol. 407, 114092 (2022). 
 - Juhe Sun, Weichen Fu, **Jan Harold Alcantara**, Jein-Shan Chen, [A neural network based on the metric projector for solving SOCCVI problem](https://ieeexplore.ieee.org/document/9159914), IEEE Transactions on Neural Networks and Learning Systems, vol. 32, no. 7, pp. 2886-2900 (2021).
 - Caiying Wu, Jing Wang, **Jan Harold Alcantara**, Jein-Shan Chen, [Smoothing strategy along with conjugate gradient algorithm for signal reconstruction](https://link.springer.com/article/10.1007/s10915-021-01440-z), Journal of Scientific Computing, vol. 87, no. 1, Article 21 (2021). 
