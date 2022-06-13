@@ -13,7 +13,7 @@ I am a postdoctoral scholar at the [Institute of Statistical Science, Academia S
 - Variational inequalities and complementarity problems
 - Fast methods for machine learning problems
 
-## Publications
+## Publications (My [google scholar](https://scholar.google.com.ph/citations?user=E6oQznwAAAAJ&hl=en) page)
 
 - **Jan Harold Alcantara**, Jein-Shan Chen Matthew K. Tam, [Method of alternating projections for the general absolute value equation](https://arxiv.org/abs/2106.03268), to appear in [Journal of Fixed Point Theory and Applications](https://www.springer.com/journal/11784) (2022). 
 - **Jan Harold Alcantara**, Jein-Shan Chen, [A new class of neural networks for NCPs using smooth perturbations of the natural residual function](https://www.sciencedirect.com/science/article/abs/pii/S0377042722000061), Journal of Computational and Applied Mathematics, vol. 407, 114092 (2022). 
