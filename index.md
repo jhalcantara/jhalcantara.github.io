@@ -32,6 +32,5 @@ I am a postdoctoral scholar at the [Institute of Statistical Science, Academia S
 ## Selected Talks
 
 - Method of alternating projections for solving absolute value equations, [International Conference on Continuous Optimization](https://iccopt2022.lehigh.edu/), Pennsylvania, USA, July 2022.
-    
 - Proximal algorithms for a class of nonconvex nonsmooth minimization problems involving piecewise smooth and min-weakly-convex functions, [2021 Taiwan Mathematical Society Annual Meeting](https://www.math.sinica.edu.tw/www/file_upload/conference/2021TMS/eng/index.html), Taipei, Taiwan, January 2022.
 
