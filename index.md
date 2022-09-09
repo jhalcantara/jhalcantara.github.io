@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral scholar at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/index.php), working with [Dr. Ching-pei Lee](https://leepei.github.io/). Previously, I was a postdoctoral fellow at the Department of Mathematics of National Taiwan Normal University, from where I also obtained my Ph.D. in Mathematics under the supervision of [Prof. Jein-Shan Chen](http://math.ntnu.edu.tw/~jschen/index.php?menu=Home). Here is my [CV](https://jhalcantara.github.io/cv.pdf).
+I am a postdoctoral scholar at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/index.php), working with [Dr. Ching-pei Lee](https://leepei.github.io/). Previously, I was a postdoctoral fellow at the Department of Mathematics of National Taiwan Normal University, from where I also obtained my Ph.D. in Mathematics under the supervision of [Prof. Jein-Shan Chen](http://math.ntnu.edu.tw/~jschen/index.php?menu=Home). Here is my [CV](https://jhalcantara.github.io/CV_Alcantara_JanHarold.pdf).
 
 ## Research Interests
 
