@@ -4,14 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral scholar at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/index.php), working with [Dr. Ching-pei Lee](https://leepei.github.io/). Previously, I was a postdoctoral fellow at the Department of Mathematics of National Taiwan Normal University, from where I also obtained my Ph.D. in Mathematics under the supervision of [Prof. Jein-Shan Chen](http://math.ntnu.edu.tw/~jschen/index.php?menu=Home). Here is my [CV](https://drive.google.com/file/d/16oVNcQ3NqJ_bE_lg-KHO0DqL5g6ZNEwj/view?usp=sharing).
+I am a postdoctoral scholar at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/index.php), working with [Dr. Ching-pei Lee](https://leepei.github.io/). Previously, I was a postdoctoral fellow at the Department of Mathematics of National Taiwan Normal University, from where I also obtained my Ph.D. in Mathematics under the supervision of [Prof. Jein-Shan Chen](http://math.ntnu.edu.tw/~jschen/index.php?menu=Home). Here is my [CV](https://jhalcantara.github.io/cv.pdf).
 
 ## Research Interests
 
+Broadly speaking, I am interested in the analysis and development of solution methods for nonconvex problems that arise from
 - Nonlinear optimization
 - Feasibility problems
 - Variational inequalities and complementarity problems
-- Fast methods for machine learning problems
+My recent works are concerned with problems inspired by machine learning applications, including best subset selection, sparse regression, compressive sensing, and hyperparameter learning. In general, I work on developing practical algorithms for nonconvex optimization to better handle large-scale problems, which is done either through the formulation of new algorithms or by novel acceleration techniques for existing ones. 
+I am also interested in studying the global convergence of classical projection algorithms for feasibility problems, which are not fully understood for nonconvex settings. I am likewise involved with designing new algorithms for variational inequalities and complementarity problems, such as dynamic systems approaches, smoothing techniques, and projection methods for their feasibility reformulations.
+
+
 
 ## Publications
 
