@@ -21,9 +21,10 @@ I am also interested in studying the global convergence of classical projection 
 
 ## Publications
 
-[comment]: <> (**Accelerated projected gradient algorithms for sparsity constrained optimization problems**)
-[comment]: <> ( **Jan Harold Alcantara** and Ching-pei Lee) 
-[comment]: <> (In *Advances in Neural Information and Processing Systems*)
+- **Accelerated projected gradient algorithms for sparsity constrained optimization problems** \
+ **Jan Harold Alcantara** and Ching-pei Lee \
+To appear in *Advances in Neural Information and Processing Systems (NeurIPS 2022)* \
+[[Link]](https://openreview.net/forum?id=0Z0xltoU1q) 
 
 - **Method of alternating projections for the general absolute value equation** \
 **Jan Harold Alcantara**, Jein-Shan Chen and Matthew K. Tam \
