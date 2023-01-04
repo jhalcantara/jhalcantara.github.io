@@ -29,7 +29,7 @@ To appear in *Advances in Neural Information and Processing Systems (NeurIPS 202
 - **Method of alternating projections for the general absolute value equation** \
 **Jan Harold Alcantara**, Jein-Shan Chen and Matthew K. Tam \
 *Journal of Fixed Point Theory and Applications*, vol. 25, Article 39 (2023)\
- [[arXiv]](https://arxiv.org/abs/2106.03268)
+ [[Link]](https://link.springer.com/article/10.1007/s11784-022-01026-8) [[arXiv]](https://arxiv.org/abs/2106.03268)
 
 - **A new class of neural networks for NCPs using smooth perturbations of the natural residual function** \
 **Jan Harold Alcantara** and Jein-Shan Chen \
