@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral scholar at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/index.php), working with [Dr. Ching-pei Lee](https://leepei.github.io/). Previously, I was a postdoctoral fellow at the Department of Mathematics of National Taiwan Normal University, from where I also obtained my Ph.D. in Mathematics under the supervision of [Prof. Jein-Shan Chen](http://math.ntnu.edu.tw/~jschen/index.php?menu=Home). Here is my [CV](https://jhalcantara.github.io/CV_Alcantara_JanHarold.pdf).
+I am postdoctoral researcher at the [Center for Advanced Intelligence Project (AIP), RIKEN, Japan](https://www.riken.jp/en/research/labs/aip/index.html) in the [Continuous Optimization Team](https://www.riken.jp/en/research/labs/aip/generic_tech/continuous_optimize/) led by [Prof. Akiko Takeda](http://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html). Previously, I worked with [Dr. Ching-pei Lee](https://leepei.github.io/) as a postdoctoral scholar at [Academia Sinica](https://www.stat.sinica.edu.tw/eng/index.php). Prior to this, I was a postdoctoral fellow at the [Department of Mathematics, National Taiwan Normal University](), from where I also obtained my Ph.D. in Mathematics under the supervision of [Prof. Jein-Shan Chen](http://math.ntnu.edu.tw/~jschen/index.php?menu=Home). For more information about me, please see my [CV](https://jhalcantara.github.io/CV_Alcantara_JanHarold.pdf).
 
 ## Research Interests
 
@@ -19,65 +19,60 @@ I am also interested in studying the global convergence of classical projection 
 
 
 
-## Publications
-
-- **Accelerated projected gradient algorithms for sparsity constrained optimization problems** \
- **Jan Harold Alcantara** and Ching-pei Lee \
-To appear in *Advances in Neural Information and Processing Systems (NeurIPS 2022)* \
-[[Link]](https://openreview.net/forum?id=0Z0xltoU1q) [[arXiv]](http://arxiv.org/abs/2211.02271)
+## Selected Publications
 
 - **Method of alternating projections for the general absolute value equation** \
-**Jan Harold Alcantara**, Jein-Shan Chen and Matthew K. Tam \
-*Journal of Fixed Point Theory and Applications*, vol. 25, Article 39 (2023)\
+ **Jan Harold Alcantara**, Jein-Shan Chen and Matthew K. Tam \
+ *Journal of Fixed Point Theory and Applications*, vol. 25, Article 39 (2023)\
  [[Link]](https://link.springer.com/article/10.1007/s11784-022-01026-8) [[arXiv]](https://arxiv.org/abs/2106.03268)
+ 
+- **Accelerated projected gradient algorithms for sparsity constrained optimization problems** \
+ **Jan Harold Alcantara** and Ching-pei Lee \
+ *Advances in Neural Information and Processing Systems (NeurIPS 2022)*, vol. 35, pp. 26723--26735 (2022) \
+[[Link]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/aab3003c922e0fcd2fd2c951fa3c03ad-Abstract-Conference.html) [[arXiv]](http://arxiv.org/abs/2211.02271)
 
 - **A new class of neural networks for NCPs using smooth perturbations of the natural residual function** \
-**Jan Harold Alcantara** and Jein-Shan Chen \
-*Journal of Computational and Applied Mathematics*, vol. 407, 114092 (2022) \
+ **Jan Harold Alcantara** and Jein-Shan Chen \
+ *Journal of Computational and Applied Mathematics*, vol. 407, 114092 (2022) \
 [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0377042722000061)  
 
 - **A neural network based on the metric projector for solving SOCCVI problem** \
 Juhe Sun, Weichen Fu, **Jan Harold Alcantara** and Jein-Shan Chen \
-*IEEE Transactions on Neural Networks and Learning Systems*, vol. 32, no. 7, pp. 2886-2900 (2021)\
+ *IEEE Transactions on Neural Networks and Learning Systems*, vol. 32, no. 7, pp. 2886-2900 (2021)\
 [[Link]](https://ieeexplore.ieee.org/document/9159914)
 
 - **Smoothing strategy along with conjugate gradient algorithm for signal reconstruction** \
-Caiying Wu, Jing Wang, **Jan Harold Alcantara** and Jein-Shan Chen \
-*Journal of Scientific Computing*, vol. 87, no. 1, Article 21 (2021) \
+ Caiying Wu, Jing Wang, **Jan Harold Alcantara** and Jein-Shan Chen \
+ *Journal of Scientific Computing*, vol. 87, no. 1, Article 21 (2021) \
 [[Link]](https://link.springer.com/article/10.1007/s10915-021-01440-z) 
 
 - **A novel generalization of the natural residual function and a neural network approach for the NCP** \
-**Jan Harold Alcantara** and Jein-Shan Chen \
-*Neurocomputing*, vol. 413, pp. 368-382 (2020) \
+ **Jan Harold Alcantara** and Jein-Shan Chen \
+ *Neurocomputing*, vol. 413, pp. 368-382 (2020) \
 [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S092523122031047X)
 
 - **On construction of new NCP functions** \
-**Jan Harold Alcantara**, Chen-Han Lee, Chieu Thanh Nguyen, Yu-Lin Chang and Jein-Shan Chen \
-*Operations Research Letters*, vol. 48, pp. 115-121 (2020) \
+ **Jan Harold Alcantara**, Chen-Han Lee, Chieu Thanh Nguyen, Yu-Lin Chang and Jein-Shan Chen \
+ *Operations Research Letters*, vol. 48, pp. 115-121 (2020) \
 [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167637720300109) 
 
 - **Neural networks based on three classes of NCP-functions for solving nonlinear complementarity problems** \
-**Jan Harold Alcantara** and Jein-Shan Chen \
-*Neurocomputing*, vol. 359, pp. 102-113 (2019) \
+ **Jan Harold Alcantara** and Jein-Shan Chen \
+ *Neurocomputing*, vol. 359, pp. 102-113 (2019) \
 [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219308021) 
 
-- **Stability analysis of the ODE model representation of amyloidogenic processing in Alzheimer’s disease in the presence of SORLA** \
-**Jan Harold Alcantara**, Angelyn Lao and Leonor Ruivivar \
-*Molecular BioSystems*, vol. 12, pp. 1468-1477 (2016) \
-[[Link]](https://pubs.rsc.org/en/content/articlelanding/2016/mb/c5mb00741k/unauth) 
 
 ## Preprints
 
 - **Global convergence and acceleration of fixed point iterations of union upper semicontinuous operators: proximal algorithms, alternating and averaged nonconvex projections, and linear complementarity problems** \
-**Jan Harold Alcantara** and Ching-pei Lee \
+ **Jan Harold Alcantara** and Ching-pei Lee \
 [arXiv:2202.10052](https://arxiv.org/abs/2202.10052) (2022) 
 
 -  **Unified smoothing approach for best hyperparameter selection problem using a bilevel optimization strategy** \
-Chieu Thanh Nguyen, **Jan Harold Alcantara**, Takayuki Okuno, Akiko Takeda and Jein-Shan Chen \
+ Chieu Thanh Nguyen, **Jan Harold Alcantara**, Takayuki Okuno, Akiko Takeda and Jein-Shan Chen \
 [arXiv:2110.12630](https://arxiv.org/abs/2110.12630) (2021)
 
 ## Selected Talks
 
 - [Method of alternating projections for solving absolute value equations](https://jhalcantara.github.io/MAP_AVE.pdf), [International Conference on Continuous Optimization](https://iccopt2022.lehigh.edu/), Pennsylvania, USA, July 2022.
 - [Proximal algorithms for a class of nonconvex nonsmooth minimization problems involving piecewise smooth and min-weakly-convex functions](https://jhalcantara.github.io/Prox_Algorithms_Min_Convex.pdf), [2021 Taiwan Mathematical Society Annual Meeting](https://www.math.sinica.edu.tw/www/file_upload/conference/2021TMS/eng/index.html), Taipei, Taiwan, January 2022.
-
