@@ -64,7 +64,7 @@ Juhe Sun, Weichen Fu, **Jan Harold Alcantara** and Jein-Shan Chen \
 
 ## Preprints
 
-- **Global convergence and acceleration of fixed point iterations of union upper semicontinuous operators: proximal algorithms, alternating and averaged nonconvex projections, and linear complementarity problems** \
+- **Global convergence and acceleration of projection methods for feasibility problems involving union convex sets** \
  **Jan Harold Alcantara** and Ching-pei Lee \
 [arXiv:2202.10052](https://arxiv.org/abs/2202.10052) (2022) 
 
