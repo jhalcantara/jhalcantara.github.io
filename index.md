@@ -68,6 +68,12 @@ Juhe Sun, Weichen Fu, **Jan Harold Alcantara** and Jein-Shan Chen \
 
 ## Preprints
 
+- **A four-operator splitting algorithm for
+nonconvex and nonsmooth optimization** \
+ **Jan Harold Alcantara**, Ching-pei Lee and Akiko Takeda \
+[arXiv:2406.16025](https://arxiv.org/abs/2406.16025) (2024) 
+
+
 - **Theoretical smoothing frameworks for general nonsmooth bilevel problems** \
  **Jan Harold Alcantara** and Akiko Takeda \
 [arXiv:2401.17852](https://arxiv.org/abs/2401.17852) (2024) 
