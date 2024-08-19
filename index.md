@@ -23,7 +23,7 @@ I am also interested in studying the global convergence of classical projection 
 -  **Unified smoothing approach for best hyperparameter selection problem using a bilevel optimization strategy** \
  **Jan Harold Alcantara**, Chieu Thanh Nguyen, Takayuki Okuno, Akiko Takeda and Jein-Shan Chen \
 accepted by *Mathematical Programming* (2024) \
-[[arXiv]](https://arxiv.org/abs/2110.12630)
+[[Link]](https://link.springer.com/article/10.1007/s10107-024-02113-z) [[arXiv]](https://arxiv.org/abs/2110.12630)
 
 - **Method of alternating projections for the general absolute value equation** \
  **Jan Harold Alcantara**, Jein-Shan Chen and Matthew K. Tam \
