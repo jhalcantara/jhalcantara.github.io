@@ -20,9 +20,14 @@ I am also interested in studying the global convergence of classical projection 
 
 
 ## Selected Publications
+- **Global convergence and acceleration of projection methods for feasibility problems involving union convex sets** \
+ **Jan Harold Alcantara** and Ching-pei Lee \
+accepted by *Journal of Optimization Theory and Applications* (2024) \
+[[arXiv]](https://arxiv.org/abs/2202.10052)
+
 -  **Unified smoothing approach for best hyperparameter selection problem using a bilevel optimization strategy** \
  **Jan Harold Alcantara**, Chieu Thanh Nguyen, Takayuki Okuno, Akiko Takeda and Jein-Shan Chen \
-accepted by *Mathematical Programming* (2024) \
+*Mathematical Programming* (2024) \
 [[Link]](https://link.springer.com/article/10.1007/s10107-024-02113-z) [[arXiv]](https://arxiv.org/abs/2110.12630)
 
 - **Method of alternating projections for the general absolute value equation** \
@@ -78,9 +83,6 @@ nonconvex and nonsmooth optimization** \
  **Jan Harold Alcantara** and Akiko Takeda \
 [arXiv:2401.17852](https://arxiv.org/abs/2401.17852) (2024) 
 
-- **Global convergence and acceleration of projection methods for feasibility problems involving union convex sets** \
- **Jan Harold Alcantara** and Ching-pei Lee \
-[arXiv:2202.10052](https://arxiv.org/abs/2202.10052) (2022) 
 
 
 ## Selected Talks
