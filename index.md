@@ -22,8 +22,8 @@ I am also interested in studying the global convergence of classical projection 
 ## Selected Publications
 - **Global convergence and acceleration of projection methods for feasibility problems involving union convex sets** \
  **Jan Harold Alcantara** and Ching-pei Lee \
-accepted by *Journal of Optimization Theory and Applications* (2024) \
-[[arXiv]](https://arxiv.org/abs/2202.10052)
+*Journal of Optimization Theory and Applications*, vol. 204, Article 19 (2025) \
+[[Link]](https://link.springer.com/article/10.1007/s10957-024-02580-6) [[arXiv]](https://arxiv.org/abs/2202.10052)
 
 -  **Unified smoothing approach for best hyperparameter selection problem using a bilevel optimization strategy** \
  **Jan Harold Alcantara**, Chieu Thanh Nguyen, Takayuki Okuno, Akiko Takeda and Jein-Shan Chen \
@@ -72,6 +72,11 @@ Juhe Sun, Weichen Fu, **Jan Harold Alcantara** and Jein-Shan Chen \
 
 
 ## Preprints
+
+- **Douglas-Rachford algorithm for nonmonotone multioperator inclusion
+  problems** \
+ **Jan Harold Alcantara** and Akiko Takeda \
+[arXiv:2501.02752](https://arxiv.org/abs/2501.02752) (2025	) 
 
 - **A four-operator splitting algorithm for
 nonconvex and nonsmooth optimization** \
