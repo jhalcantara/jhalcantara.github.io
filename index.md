@@ -91,6 +91,7 @@ nonconvex and nonsmooth optimization** \
 
 
 ## Selected Talks
+- [Douglas-Rachford algorithm for nonmonotone multioperator inclusion problems](https://jhalcantara.github.io/MATRIX_Workshop.pdf), [MATRIX Workshop: Splitting Algorithms - Advances, Challenges and Opportunities](https://www.matrix-inst.org.au/events/splitting-algorithms-advances-challenges-and-opportunities/), Melbourne, Australia, February 2025.
 - [Theoretical smoothing frameworks for general nonsmooth bilevel problems](https://jhalcantara.github.io/Bilevel_ValueFunctionSmoothing.pdf), [International Symposium on Mathematical Programming](https://ismp2024.gerad.ca/), Montreal, Canada, July 2024.
 - [Method of alternating projections for solving absolute value equations](https://jhalcantara.github.io/MAP_AVE.pdf), [International Conference on Continuous Optimization](https://iccopt2022.lehigh.edu/), Pennsylvania, USA, July 2022.
 - [Proximal algorithms for a class of nonconvex nonsmooth minimization problems involving piecewise smooth and min-weakly-convex functions](https://jhalcantara.github.io/Prox_Algorithms_Min_Convex.pdf), [2021 Taiwan Mathematical Society Annual Meeting](https://www.math.sinica.edu.tw/www/file_upload/conference/2021TMS/eng/index.html), Taipei, Taiwan, January 2022.
